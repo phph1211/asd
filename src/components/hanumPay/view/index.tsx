@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { View, TouchableOpacity, Text, Animated, Easing } from "react-native";
 import { MaterialIcons } from "@expo/vector-icons";
 import * as S from "../style";
-import { colors } from "../../../style/clors";
+import { colors } from "../../../style/color";
 import { HanumpayAction } from "../action";
 
 export const HanumpayView = () => {

@@ -1,6 +1,6 @@
 import styled from "@emotion/native";
 import { HanumpayAction } from "./action";
-import { colors } from "../../style/clors";
+import { colors } from "../../style/color";
 import { HanumPay } from ".";
 
 export const HanumpayBox = styled.View`
